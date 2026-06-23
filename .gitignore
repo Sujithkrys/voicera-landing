@@ -1,0 +1,5 @@
+# Ignore secret keys and local configs
+widget/config.js
+.DS_Store
+node_modules/
+dist/
